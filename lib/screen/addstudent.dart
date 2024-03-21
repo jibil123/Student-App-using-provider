@@ -5,7 +5,7 @@ import 'package:sqflite_10/provider/provider_addstudent.dart';
 import 'package:sqflite_10/screen/textformfield.dart';
 
 class AddStudent extends StatelessWidget {
-  const AddStudent({super.key});
+  const AddStudent({super.key}); 
 
   @override
   Widget build(BuildContext context) {
